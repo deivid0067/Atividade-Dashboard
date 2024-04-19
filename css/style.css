@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.graficos {
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    
+}
+
+.grafico{
+    width: 100%;
+    display: flex;
+    margin-right: 35px;
+}
+
